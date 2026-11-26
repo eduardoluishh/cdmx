@@ -1,0 +1,50 @@
+{
+  "_nota": "Alertas de la Red de Alerta Temprana de la SGIRPC de la CDMX, copiadas de sus publicaciones en X (@SGIRPC_CDMX). Las actualiza una tarea programada de Claude o una persona. 'alcaldias' usa claves del INEGI (09002 = Azcapotzalco). 'nivel': verde, amarilla, naranja, roja o purpura. 'tipo': lluvia, frio, calor, viento, granizo o nieve. 'desde' y 'hasta' marcan la vigencia en hora del centro de México.",
+  "revisado": "2026-11-25T22:30:00-06:00",
+  "alertas": [
+    {
+      "tipo": "lluvia",
+      "nivel": "amarilla",
+      "alcaldias": ["09002", "09005"],
+      "desde": "2026-11-25T19:30:00-06:00",
+      "hasta": "2026-11-26T06:00:00-06:00",
+      "cuando_es": "noche del miércoles 25 de noviembre",
+      "cuando_en": "Wednesday night, November 25",
+      "motivo_es": "intensificación de lluvias fuertes",
+      "motivo_en": "heavy rain intensifying",
+      "url": "https://x.com/SGIRPC_CDMX/status/2125765241959014789",
+      "publicado": "2026-11-25T19:35:03-06:00"
+    },
+    {
+      "tipo": "frio",
+      "nivel": "amarilla",
+      "alcaldias": ["09010", "09004", "09008", "09009", "09012", "09013"],
+      "desde": "2026-11-26T00:00:00-06:00",
+      "hasta": "2026-11-26T10:00:00-06:00",
+      "cuando_es": "madrugada y mañana del jueves 26 de noviembre",
+      "cuando_en": "early hours and morning of Thursday, November 26",
+      "motivo_es": "pronóstico de temperaturas bajas",
+      "motivo_en": "low temperatures forecast",
+      "url": "https://x.com/SGIRPC_CDMX/status/2125673561436160175",
+      "publicado": "2026-11-25T13:30:44-06:00"
+    }
+  ],
+  "historial": [
+    {"tipo": "lluvia", "nivel": "amarilla", "dia": "2026-11-25", "alcaldias": ["09002", "09005"], "url": "https://x.com/SGIRPC_CDMX/status/2125765241959014789"},
+    {"tipo": "frio", "nivel": "amarilla", "dia": "2026-11-26", "alcaldias": ["09010", "09004", "09008", "09009", "09012", "09013"], "url": "https://x.com/SGIRPC_CDMX/status/2125673561436160175"},
+    {"tipo": "lluvia", "nivel": "amarilla", "dia": "2026-11-24", "alcaldias": ["09002", "09005", "09009"], "url": "https://x.com/SGIRPC_CDMX/status/2125392471937126552"},
+    {"tipo": "frio", "nivel": "amarilla", "dia": "2026-11-24", "alcaldias": ["09010", "09004", "09008", "09009", "09012", "09013"], "url": "https://x.com/SGIRPC_CDMX/status/2124942797442617647"},
+    {"tipo": "frio", "nivel": "amarilla", "dia": "2026-11-21", "alcaldias": ["09010", "09004", "09008", "09009", "09012", "09013"], "url": "https://x.com/SGIRPC_CDMX/status/2123856500015632830"},
+    {"tipo": "frio", "nivel": "amarilla", "dia": "2026-11-20", "alcaldias": ["09010", "09004", "09008", "09009", "09012", "09013"], "url": "https://x.com/SGIRPC_CDMX/status/2123489945985626392"},
+    {"tipo": "frio", "nivel": "amarilla", "dia": "2026-11-19", "alcaldias": ["09010", "09004", "09008", "09009", "09012", "09013"], "url": "https://x.com/SGIRPC_CDMX/status/2123130040959262763"},
+    {"tipo": "frio", "nivel": "amarilla", "dia": "2026-11-18", "alcaldias": ["09010", "09004", "09008", "09009", "09012"], "url": "https://x.com/SGIRPC_CDMX/status/2122756877402485113"}
+  ],
+  "avisos": [
+    {
+      "es": "Conagua avisa de condiciones meteorológicas adversas en varias zonas del país el resto de la semana por la primera tormenta invernal de la temporada.",
+      "en": "Conagua warns of adverse weather in several parts of the country for the rest of the week, due to the season’s first winter storm.",
+      "url": "https://x.com/conagua_clima",
+      "fecha": "2026-11-25"
+    }
+  ]
+}

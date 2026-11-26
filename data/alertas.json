@@ -1,0 +1,352 @@
+{
+ "generado": "2026-11-25T22:30:00-06:00",
+ "sismos": {
+  "ok": true,
+  "actualizado": "2026-11-25T22:30:00-06:00",
+  "lista": [
+   {
+    "m": 4.6,
+    "lugar": "131 km al SUROESTE de CD HIDALGO, CHIS",
+    "t": "2026-11-25T21:30:29-06:00",
+    "lat": 14.153,
+    "lon": -93.237,
+    "prof": 10.0,
+    "fuente": "SSN"
+   },
+   {
+    "m": 4.1,
+    "lugar": "69 km al SUR de JALTIPAN DEMORELOS, VER",
+    "t": "2026-11-25T20:40:39-06:00",
+    "lat": 17.35,
+    "lon": -94.615,
+    "prof": 139.2,
+    "fuente": "SSN"
+   },
+   {
+    "m": 3.3,
+    "lugar": "39 km al OESTE de MATIAS ROMERO, OAX",
+    "t": "2026-11-25T16:26:01-06:00",
+    "lat": 16.939,
+    "lon": -95.405,
+    "prof": 5.0,
+    "fuente": "SSN"
+   },
+   {
+    "m": 2.9,
+    "lugar": "32 km al SURESTE de PETATLAN, GRO",
+    "t": "2026-11-25T16:24:26-06:00",
+    "lat": 17.445,
+    "lon": -100.987,
+    "prof": 53.6,
+    "fuente": "SSN"
+   },
+   {
+    "m": 2.9,
+    "lugar": "16 km al SURESTE de CASIMIRO CASTILLO, JAL",
+    "t": "2026-11-25T15:01:39-06:00",
+    "lat": 19.554,
+    "lon": -104.294,
+    "prof": 4.8,
+    "fuente": "SSN"
+   },
+   {
+    "m": 2.9,
+    "lugar": "15 km al SURESTE de CASIMIRO CASTILLO, JAL",
+    "t": "2026-11-25T15:01:06-06:00",
+    "lat": 19.56,
+    "lon": -104.302,
+    "prof": 4.2,
+    "fuente": "SSN"
+   },
+   {
+    "m": 3.0,
+    "lugar": "15 km al SURESTE de CASIMIRO CASTILLO, JAL",
+    "t": "2026-11-25T14:53:30-06:00",
+    "lat": 19.566,
+    "lon": -104.295,
+    "prof": 4.7,
+    "fuente": "SSN"
+   },
+   {
+    "m": 3.9,
+    "lugar": "127 km al SUROESTE de CD HIDALGO, CHIS",
+    "t": "2026-11-25T14:38:55-06:00",
+    "lat": 14.061,
+    "lon": -93.141,
+    "prof": 20.0,
+    "fuente": "SSN"
+   },
+   {
+    "m": 3.1,
+    "lugar": "48 km al SUR de H TLAXIACO, OAX",
+    "t": "2026-11-25T14:04:23-06:00",
+    "lat": 16.838,
+    "lon": -97.705,
+    "prof": 5.0,
+    "fuente": "SSN"
+   },
+   {
+    "m": 4.1,
+    "lugar": "88 km al SUROESTE de ARRIAGA , CHIS",
+    "t": "2026-11-25T13:50:21-06:00",
+    "lat": 15.642,
+    "lon": -94.447,
+    "prof": 15.0,
+    "fuente": "SSN"
+   },
+   {
+    "m": 2.6,
+    "lugar": "25 km al ESTE de ACAPULCO, GRO",
+    "t": "2026-11-25T13:19:53-06:00",
+    "lat": 16.843,
+    "lon": -99.664,
+    "prof": 19.9,
+    "fuente": "SSN"
+   },
+   {
+    "m": 3.1,
+    "lugar": "34 km al NOROESTE de OMETEPEC, GRO",
+    "t": "2026-11-25T13:06:01-06:00",
+    "lat": 16.92,
+    "lon": -98.616,
+    "prof": 54.1,
+    "fuente": "SSN"
+   },
+   {
+    "m": 3.4,
+    "lugar": "87 km al SURESTE de SAN FELIPE, BC",
+    "t": "2026-11-25T12:52:22-06:00",
+    "lat": 30.564,
+    "lon": -114.103,
+    "prof": 10.0,
+    "fuente": "SSN"
+   },
+   {
+    "m": 2.3,
+    "lugar": "26 km al NORESTE de PETATLAN, GRO",
+    "t": "2026-11-25T12:51:50-06:00",
+    "lat": 17.748,
+    "lon": -101.176,
+    "prof": 12.5,
+    "fuente": "SSN"
+   },
+   {
+    "m": 3.9,
+    "lugar": "140 km al SUROESTE de HUIXTLA, CHIS",
+    "t": "2026-11-25T12:48:26-06:00",
+    "lat": 14.279,
+    "lon": -93.422,
+    "prof": 10.0,
+    "fuente": "SSN"
+   }
+  ],
+  "semana": [
+   {
+    "m": 4.6,
+    "lugar": "97 km SW of Puerto Madero, Mexico",
+    "t": "2026-11-25T21:30:28.511000-06:00",
+    "lat": 14.164,
+    "lon": -93.126,
+    "prof": 10,
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udki"
+   },
+   {
+    "m": 5.2,
+    "lugar": "93 km WSW of Puerto Madero, Mexico",
+    "t": "2026-11-24T05:51:44.702000-06:00",
+    "lat": 14.442,
+    "lon": -93.2417,
+    "prof": 35,
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6z"
+   }
+  ]
+ },
+ "popo": {
+  "ok": true,
+  "actualizado": "2026-11-25T22:30:00-06:00",
+  "semaforo": "amarillo",
+  "fase": 2,
+  "exhalaciones": 24,
+  "tremor_min": null,
+  "explosiones": null,
+  "rumbo": null,
+  "fecha_texto": "25 de noviembre de 2026",
+  "url": "https://www.gob.mx/cenapred/articulos/monitoreo-del-volcan-popocatepetl-hoy-25-de-noviembre-de-2026"
+ },
+ "aire": {
+  "ok": true,
+  "actualizado": "2026-11-25T22:30:00-06:00",
+  "indice": "ACEPTABLE",
+  "riesgo": "MODERADO",
+  "contaminantes": [
+   "NO2",
+   "SO2",
+   "PM2.5"
+  ],
+  "hora": 22,
+  "contingencia": null,
+  "url": "http://www.aire.cdmx.gob.mx/default.php"
+ },
+ "ciclones": {
+  "ok": true,
+  "actualizado": "2026-11-25T22:30:00-06:00",
+  "lista": []
+ },
+ "sgirpc": {
+  "revisado": "2026-11-25T22:30:00-06:00",
+  "alertas": [
+   {
+    "tipo": "lluvia",
+    "nivel": "amarilla",
+    "alcaldias": [
+     "09002",
+     "09005"
+    ],
+    "desde": "2026-11-25T19:30:00-06:00",
+    "hasta": "2026-11-26T06:00:00-06:00",
+    "cuando_es": "noche del miércoles 25 de noviembre",
+    "cuando_en": "Wednesday night, November 25",
+    "motivo_es": "intensificación de lluvias fuertes",
+    "motivo_en": "heavy rain intensifying",
+    "url": "https://x.com/SGIRPC_CDMX/status/2125765241959014789",
+    "publicado": "2026-11-25T19:35:03-06:00"
+   },
+   {
+    "tipo": "frio",
+    "nivel": "amarilla",
+    "alcaldias": [
+     "09010",
+     "09004",
+     "09008",
+     "09009",
+     "09012",
+     "09013"
+    ],
+    "desde": "2026-11-26T00:00:00-06:00",
+    "hasta": "2026-11-26T10:00:00-06:00",
+    "cuando_es": "madrugada y mañana del jueves 26 de noviembre",
+    "cuando_en": "early hours and morning of Thursday, November 26",
+    "motivo_es": "pronóstico de temperaturas bajas",
+    "motivo_en": "low temperatures forecast",
+    "url": "https://x.com/SGIRPC_CDMX/status/2125673561436160175",
+    "publicado": "2026-11-25T13:30:44-06:00"
+   }
+  ],
+  "historial": [
+   {
+    "tipo": "lluvia",
+    "nivel": "amarilla",
+    "dia": "2026-11-25",
+    "alcaldias": [
+     "09002",
+     "09005"
+    ],
+    "url": "https://x.com/SGIRPC_CDMX/status/2125765241959014789"
+   },
+   {
+    "tipo": "frio",
+    "nivel": "amarilla",
+    "dia": "2026-11-26",
+    "alcaldias": [
+     "09010",
+     "09004",
+     "09008",
+     "09009",
+     "09012",
+     "09013"
+    ],
+    "url": "https://x.com/SGIRPC_CDMX/status/2125673561436160175"
+   },
+   {
+    "tipo": "lluvia",
+    "nivel": "amarilla",
+    "dia": "2026-11-24",
+    "alcaldias": [
+     "09002",
+     "09005",
+     "09009"
+    ],
+    "url": "https://x.com/SGIRPC_CDMX/status/2125392471937126552"
+   },
+   {
+    "tipo": "frio",
+    "nivel": "amarilla",
+    "dia": "2026-11-24",
+    "alcaldias": [
+     "09010",
+     "09004",
+     "09008",
+     "09009",
+     "09012",
+     "09013"
+    ],
+    "url": "https://x.com/SGIRPC_CDMX/status/2124942797442617647"
+   },
+   {
+    "tipo": "frio",
+    "nivel": "amarilla",
+    "dia": "2026-11-21",
+    "alcaldias": [
+     "09010",
+     "09004",
+     "09008",
+     "09009",
+     "09012",
+     "09013"
+    ],
+    "url": "https://x.com/SGIRPC_CDMX/status/2123856500015632830"
+   },
+   {
+    "tipo": "frio",
+    "nivel": "amarilla",
+    "dia": "2026-11-20",
+    "alcaldias": [
+     "09010",
+     "09004",
+     "09008",
+     "09009",
+     "09012",
+     "09013"
+    ],
+    "url": "https://x.com/SGIRPC_CDMX/status/2123489945985626392"
+   },
+   {
+    "tipo": "frio",
+    "nivel": "amarilla",
+    "dia": "2026-11-19",
+    "alcaldias": [
+     "09010",
+     "09004",
+     "09008",
+     "09009",
+     "09012",
+     "09013"
+    ],
+    "url": "https://x.com/SGIRPC_CDMX/status/2123130040959262763"
+   },
+   {
+    "tipo": "frio",
+    "nivel": "amarilla",
+    "dia": "2026-11-18",
+    "alcaldias": [
+     "09010",
+     "09004",
+     "09008",
+     "09009",
+     "09012"
+    ],
+    "url": "https://x.com/SGIRPC_CDMX/status/2122756877402485113"
+   }
+  ],
+  "avisos": [
+   {
+    "es": "Conagua avisa de condiciones meteorológicas adversas en varias zonas del país el resto de la semana por la primera tormenta invernal de la temporada.",
+    "en": "Conagua warns of adverse weather in several parts of the country for the rest of the week, due to the season’s first winter storm.",
+    "url": "https://x.com/conagua_clima",
+    "fecha": "2026-11-25"
+   }
+  ]
+ }
+}
